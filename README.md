@@ -1,5 +1,4 @@
-# bimo-tanihub
-bimo@tanihub.com Aamiin
+# bimo-kitabisa
 
 Environtment setup:
 1. Java 8 or higher
